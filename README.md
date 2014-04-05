@@ -8,3 +8,12 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 	.../LuckyOS/src/kernel
 ```
+
+## Revisões ##
+
+* **kernel-v0.0:** Kernel 32 bits, ASM => ELF => BIN.
+Requisitos:
+
+```
+LOSKernelLibs.build-000
+```
