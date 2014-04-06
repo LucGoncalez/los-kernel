@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **kernel-v0.2:** Escreve constantes string.
+Requisitos:
+
+```
+LOSKernelLibs.build-002
+FPCrtlLOS.build-001
+```
+
 * **kernel-v0.1:** Kernel 32 bits, ASM + PAS => ELF => BIN.
 Requisitos:
 
