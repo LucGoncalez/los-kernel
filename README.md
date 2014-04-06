@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **kernel-v0.1:** Kernel 32 bits, ASM + PAS => ELF => BIN.
+Requisitos:
+
+```
+LOSKernelLibs.build-001
+FPCrtlLOS.build-000
+```
+
 * **kernel-v0.0:** Kernel 32 bits, ASM => ELF => BIN.
 Requisitos:
 
