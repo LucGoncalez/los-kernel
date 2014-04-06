@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **kernel-v0.3:** Escreve diversos tipos.
+Requisitos:
+
+```
+LOSKernelLibs.build-003
+FPCrtlLOS.build-002
+```
+
 * **kernel-v0.2:** Escreve constantes string.
 Requisitos:
 
