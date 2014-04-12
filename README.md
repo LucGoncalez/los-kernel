@@ -11,6 +11,19 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **kernel-v0.4:** Biblioteca de terminal implementada.
+Requisitos:
+
+```
+LOSKernelLibs.build-006
+LOSDrivers.build-000
+LOSDriversLibs.build-000
+LOSStdLibs.build-000
+LOSSystemLibs.build-000
+FPCrtlLOS.build-003
+LibLOS16.build-015
+```
+
 * **Bugfix-2013-0614:** Alterou as seguintes versões:
 
  * **kernel-v0.0.1**
