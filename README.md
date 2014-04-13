@@ -11,6 +11,19 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **kernel-v0.5:** Mudança nas tabelas de boot.
+Requisitos:
+
+```
+LOSKernelLibs.build-007
+LOSDrivers.build-000
+LOSDriversLibs.build-000
+LOSStdLibs.build-000
+LOSSystemLibs.build-000
+FPCrtlLOS.build-003
+LibLOS16.build-016
+```
+
 * **kernel-v0.4:** Biblioteca de terminal implementada.
 Requisitos:
 
