@@ -1,4 +1,4 @@
-# LOSKernel #
+# LOS-Kernel #
 **Repositório principal do Kernel LOS**
 
 Este repositório será usado para a implementação do kernel LOS.
@@ -15,26 +15,26 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 Requisitos:
 
 ```
-LOSKernelLibs.build-007
-LOSDrivers.build-000
-LOSDriversLibs.build-000
-LOSStdLibs.build-000
-LOSSystemLibs.build-000
-FPCrtlLOS.build-003
-LibLOS16.build-016
+LOS-KernelLibs.build-007
+LOS-Drivers.build-000
+LOS-DriversLibs.build-000
+LOS-StdLibs.build-000
+LOS-SystemLibs.build-000
+LOS-FPC-RTL.build-003
+LOS-Libs16.build-016
 ```
 
 * **kernel-v0.4:** Biblioteca de terminal implementada.
 Requisitos:
 
 ```
-LOSKernelLibs.build-006
-LOSDrivers.build-000
-LOSDriversLibs.build-000
-LOSStdLibs.build-000
-LOSSystemLibs.build-000
-FPCrtlLOS.build-003
-LibLOS16.build-015
+LOS-KernelLibs.build-006
+LOS-Drivers.build-000
+LOS-DriversLibs.build-000
+LOS-StdLibs.build-000
+LOS-SystemLibs.build-000
+LOS-FPC-RTL.build-003
+LOS-Libs16.build-015
 ```
 
 * **Bugfix-2013-0614:** Alterou as seguintes versões:
@@ -47,37 +47,37 @@ LibLOS16.build-015
 Requisitos:
 
 ```
-LOSKernelLibs.build-004
-FPCrtlLOS.build-002
+LOS-KernelLibs.build-004
+LOS-FPC-RTL.build-002
 ```
 
 * **kernel-v0.3:** Escreve diversos tipos.
 Requisitos:
 
 ```
-LOSKernelLibs.build-003
-FPCrtlLOS.build-002
+LOS-KernelLibs.build-003
+LOS-FPC-RTL.build-002
 ```
 
 * **kernel-v0.2:** Escreve constantes string.
 Requisitos:
 
 ```
-LOSKernelLibs.build-002
-FPCrtlLOS.build-001
+LOS-KernelLibs.build-002
+LOS-FPC-RTL.build-001
 ```
 
 * **kernel-v0.1:** Kernel 32 bits, ASM + PAS => ELF => BIN.
 Requisitos:
 
 ```
-LOSKernelLibs.build-001
-FPCrtlLOS.build-000
+LOS-KernelLibs.build-001
+LOS-FPC-RTL.build-000
 ```
 
 * **kernel-v0.0:** Kernel 32 bits, ASM => ELF => BIN.
 Requisitos:
 
 ```
-LOSKernelLibs.build-000
+LOS-KernelLibs.build-000
 ```
