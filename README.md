@@ -11,6 +11,19 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **kernel-v0.6.1:** Mudança em ABORT.
+Requisitos:
+
+```
+LOS-KernelLibs.build-008
+LOS-Drivers.build-001
+LOS-DriversLibs.build-000
+LOS-StdLibs.build-001
+LOS-SystemLibs.build-001
+LOS-FPC-RTL.build-004
+LOS-Libs16.build-016
+```
+
 * **kernel-v0.5:** Mudança nas tabelas de boot.
 Requisitos:
 
